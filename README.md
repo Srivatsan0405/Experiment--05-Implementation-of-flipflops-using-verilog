@@ -112,6 +112,10 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: 
 RegisterNumber:  
 */
+![Screenshot 2023-07-27 090023](https://github.com/Srivatsan0405/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841630/ab7df450-fe9a-439f-a9eb-beb2d7616422)
+
+![Screenshot 2023-07-27 134330](https://github.com/Srivatsan0405/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841630/e906ada2-04b7-42fa-b7f7-775f044d0856)
+
 
 
 
@@ -120,7 +124,9 @@ RegisterNumber:
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+![Screenshot 2023-07-27 090115](https://github.com/Srivatsan0405/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841630/8d46a0c7-2293-493d-a703-1ad5c5ace14d)
 
+![Screenshot 2023-07-27 134345](https://github.com/Srivatsan0405/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841630/1b261d23-a386-456b-b17d-70cb99f1a4ea)
 
 
 
@@ -130,8 +136,10 @@ RegisterNumber:
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+![WhatsApp Image 2023-07-27 at 09 23 17](https://github.com/Srivatsan0405/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841630/a3e82361-e4d3-41a2-9f9c-ab37e704097f)
 
 
+![Screenshot 2023-07-27 134247](https://github.com/Srivatsan0405/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841630/321f8d88-6f10-4a67-8d18-72d3e186cad7)
 
 
 
